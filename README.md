@@ -43,6 +43,8 @@ Jupyter Notebook and Google API
 ![Image description](https://github.com/melakue/Car-Recommender/blob/master/No%20of%20non%20luxury%20%20cars%20sold%20by%20state.png)
 ![Image description](https://github.com/melakue/Car-Recommender/blob/master/Pie%20chart%20for%20lexury.png)
 ![Image description](https://github.com/melakue/Car-Recommender/blob/master/lux%20vs%20non%20lux%20pie.png)
+![Image description](https://github.com/melakue/Car-Recommender/blob/master/Average%20Price%20per%20make.png)
+
 
 
 
