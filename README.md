@@ -15,14 +15,14 @@
 Kaggle - data of Used Car Sales 
 * Data from September 24 2017
 * Columns of data include:
-** ID – Car identification
-** Price – Car Price
-** Year - Car Year
-** Mileage – Car Mileage
-** City 
-* State
-* Make – Car Manufacturer
-* Model – Car Model
+  * ID – Car identification
+  * Price – Car Price
+  * Year - Car Year
+  * Mileage – Car Mileage
+  * City 
+  * State
+  * Make – Car Manufacturer
+  * Model – Car Model
 
 ### Tools used for the project
 
@@ -36,15 +36,11 @@ Jupyter Notebook
 * Dropna() – used to drop null values
 * str.title() – used to convert the first character of each word to uppercase and the remaining to lowercase
  
-### Luxury Vehicles considered for this project
-
-* Str.strip() – used to strip characters from the beginning and end of the string
-* error_bad_lines – used to drop bad lines in our data
-* Str.upper() – used to make all our values for State uppercase
-* Dropna() – used to drop null values
-* str.title() – used to convert the first character of each word to uppercase and the remaining to lowercase
-
 ### Visualizations
+
+![Image description](link-to-image)
+
+
 
 
 
