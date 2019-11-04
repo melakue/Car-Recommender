@@ -1,6 +1,6 @@
 ## Car-Recommender
 
-### This project is to answer the following questions
+#### Jupyter Notebook and Google API are used to analyze used car sales data from Kaggle and answer the following questions
 
 * What are the top car sales?
 * How many luxury car sales versus non luxury car sales by state?
@@ -26,7 +26,7 @@ Kaggle - data of Used Car Sales
 
 ### Tools used for the project
 
-Jupyter Notebook
+Jupyter Notebook and Google API
 
 ### Functions applied
 
@@ -38,7 +38,14 @@ Jupyter Notebook
  
 ### Visualizations
 
-![Image description](link-to-image)
+![Image description](https://github.com/melakue/Car-Recommender/blob/master/Pie%20chart%20for%20lexury.png)
+![Image description](https://github.com/melakue/Car-Recommender/blob/master/No%20of%20luxury%20cars%20sold%20by%20state.png)
+![Image description](https://github.com/melakue/Car-Recommender/blob/master/No%20of%20non%20luxury%20%20cars%20sold%20by%20state.png)
+![Image description](https://github.com/melakue/Car-Recommender/blob/master/Pie%20chart%20for%20lexury.png)
+![Image description](https://github.com/melakue/Car-Recommender/blob/master/lux%20vs%20non%20lux%20pie.png)
+
+
+
 
 
 
